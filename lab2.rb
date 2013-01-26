@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/' do
-mod line 4 from macbook
+change line 4 from x230
 puts 'test form macbook'	  
 	
 end
